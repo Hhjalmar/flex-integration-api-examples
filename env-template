@@ -2,5 +2,5 @@
 # https://flex-console.sharetribe.com/applications to generate a new
 # application with a client ID and a secret.
 
-FLEX_INTEGRATION_CLIENT_ID=eecce689-e964-4baa-ac33-9c6b233003bc
-FLEX_INTEGRATION_CLIENT_SECRET=7515f31b4b48c433c640dde391d7909080952f5f
+FLEX_INTEGRATION_CLIENT_ID=
+FLEX_INTEGRATION_CLIENT_SECRET=
